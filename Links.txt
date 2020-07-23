@@ -1,0 +1,6 @@
+https://coursehunter.net/course/full-stack-veb-razrabotka-s-laravel
+https://fokusov.com/posts/kak-sdelat-izbrannoe-sredstvami-laravel-i-vue_js
+https://www.youtube.com/watch?v=22W54aRGr3Q&list=PLb6TvuNosCJW_N3wqAUYsp7DvUzfyvbvB
+https://www.youtube.com/watch?v=q-w_ep9ukfs&list=PLeeuvNW2FHVhcBTW9XK05nXIoSKV4QfzF&index=6
+https://www.mynotepaper.com/laravel-vue-crud-single-page-application-tutorial
+https://openbase.io/js/bootstrap-select
